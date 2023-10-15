@@ -24,12 +24,17 @@
     "prepack": "npm run build"
   },
   "dependencies": {
+    "@near-wallet-selector/modal-ui": "^8.5.4",
+    "@near-wallet-selector/my-near-wallet": "^8.5.4",
     "chalk": "^4.1.2",
     "commander": "^11.0.0",
     "cross-spawn": "^7.0.3",
     "mixpanel": "^0.17.0",
     "ncp": "^2.0.0",
+    "near-api-js": "^2.1.4",
     "prompts": "^2.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "semver": "^7.5.3"
   },
   "devDependencies": {
